@@ -1,4 +1,4 @@
-let preguntas_aleatorias = false;
+let preguntas_aleatorias = 0;
 let mostrar_pantalla_juego_términado = true;
 let reiniciar_puntos_al_reiniciar_el_juego = true;
 
