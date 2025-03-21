@@ -1,0 +1,546 @@
+[
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Seleccione el literal correcto. Cisco Packet Tracer es una herramienta de:",
+        "respuesta": " b) enseñanza y aprendizaje de tecnología de redes que ofrece una combinación única de experiencias de simulación y visualización realistas, evaluación, capacidades de creación de actividades y colaboración multiusuario y oportunidades de competencia.",
+        "incorrecta1": "a) enseñanza y aprendizaje de softwares que ofrece una combinación única de experiencias de programación y visualización realistas, evaluación, capacidades de creación de actividades y colaboración multiusuario y oportunidades de competencia.",
+        "incorrecta2": "c) enseñanza y aprendizaje de hardware que nos brinda una maravillosa experiencia simulada, para saber ubicar las piezas de un computador,",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "¿Qué es una red SAN: ",
+        "respuesta": "c) Es una red de área de almacenamiento.",
+        "incorrecta1": "a) Es una red de área local virtual.",
+        "incorrecta2": "b) Es una red de área amplia.",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Una de las características de los SWITCH es que: ",
+        "respuesta": " b) Ellos son los únicos responsables de determinar el destino de los Cut-Throughts y enviarlos de manera eficiente.",
+        "incorrecta1": "a) Permiten la transmisión de señal por medio de sus ondas electromagnéticas.",
+        "incorrecta2": "c) Cuando uno de sus puentes no recibe la señal, se conecta con el resto de sus puertos",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Subraye la respuesta correcta.",
+        "respuesta": " c) Los ACCESS POINT son dispositivos para establecer una conexión inalámbrica entre equipos y pueden formar una red inalámbrica externa (local o internet).",
+        "incorrecta1": "a) Los ACCESS POINT son dispositivos para establecer una conexión por medio de cableado entre equipos y poder formar una red LAN.",
+        "incorrecta2": "b) Los ACCESS POINT son dispositivos que establecen la trasmisión de datos por medio de antenas para crear una red inalámbrica interna WLAN. ",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": " De cuantas partes está compuesto un Access Point",
+        "respuesta": "a) 1Cubierta, 2Indicadores, 3Antena, 4Conector RJ45, 5Conector DC",
+        "incorrecta1": "b) 1Cubierta, 2Antena, 3Conector RJ45.",
+        "incorrecta2": "c) 1Cubierta, 2Antena, 3ADSL, 4ConectorRJ45, 5Conector DC",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Entre los modelos de capas tcp/ip están? ",
+        "respuesta": " a) Aplicación, Transporte, Internet, Vínculo de datos, Red física",
+        "incorrecta1": "b) cableado, lógica, internet",
+        "incorrecta2": "c) aplicación, trasporte, red física",
+        "incorrecta3": "d) proveedor, instalación"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "La capa de transporte TCP/IP:",
+        "respuesta": "a) garantiza que los paquetes lleguen en secuencia y sin errores",
+        "incorrecta1": "b) No se puede alcanzar un sistema de destino.",
+        "incorrecta2": "c) sirve para causar interferencias",
+        "incorrecta3": "d) todas"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "El protocolo de mensajes de control de Internet (ICMP)",
+        "respuesta": "a) detecta y registra las condiciones de error de la red",
+        "incorrecta1": "b) proporciona un servicio de entrega de datagramas",
+        "incorrecta2": "c) sirve para causar interferencias",
+        "incorrecta3": "d) todas las anteriores"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Para que sirve el modo Bridge de un Acces point:",
+        "respuesta": "b) sirve como un puente inalámbrico entre dispositivos",
+        "incorrecta1": "a) sirve para extender la señal",
+        "incorrecta2": "c) sirve para causar interferencias",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Aparte de modelo TCP/IP con que otro nombre se le llama: ",
+        "respuesta": "b) modelo DARPA.",
+        "incorrecta1": "a) modelo COP",
+        "incorrecta2": "c) modelo SAMUS",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Que define el FTP:",
+        "respuesta": "c) cómo se envían archivos en una red",
+        "incorrecta1": "a) el funcionamiento de navegadores",
+        "incorrecta2": "b) interacción hombre-máquina",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Marque lo Correcto. Protocolo que utiliza direcciones series de cuatro octetos con formato de punto decimal, este protocolo lleva los datos a otras máquinas de la red. ",
+        "respuesta": "a) IP",
+        "incorrecta1": "b) TCP",
+        "incorrecta2": "c) WAN",
+        "incorrecta3": "d) DARPA"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Cuáles son los parámetros de QOS.",
+        "respuesta": "c) Perdida de paquetes, Jitter, latencia, Ancho de Banda.",
+        "incorrecta1": "a) Hardware, software",
+        "incorrecta2": "b) Diseño, prueba.",
+        "incorrecta3": "d) Ninguna de las Anteriores."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Determine cuál de las siguientes NO es una característica de la arquitectura de red:",
+        "respuesta": "e) Interconectividad",
+        "incorrecta1": "a) Tolerancia a Fallas",
+        "incorrecta2": "b) Escalabilidad",
+        "incorrecta3": "c) Calidad de Servicio"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Determine cuál de las siguientes NO es un parámetro de QOS.",
+        "respuesta": "c) Ruido electrónico",
+        "incorrecta1": "a) Jitter",
+        "incorrecta2": "b) Ancho de banda",
+        "incorrecta3": "d) Latencia"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Cuál es la frecuencia de banda de la IEEE-802?15.1 en Bluetooth en la WPAN?",
+        "respuesta": "b) 2,4 GHz",
+        "incorrecta1": "a) 3.1 GHz",
+        "incorrecta2": "c) 2,4 MHz",
+        "incorrecta3": "d) Ninguna"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "¿Cuánto alcance tiene un acces point",
+        "respuesta": "a) 30 a 100 metros",
+        "incorrecta1": "b) 60 a 300 metros",
+        "incorrecta2": "c) 10 a 600 metros",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "¿Dónde se utiliza el protocolo WAP2 personal?",
+        "respuesta": "a) Área domésticas",
+        "incorrecta1": "b) Área metropolitanas",
+        "incorrecta2": "c) Área extensas",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "¿Cuál es la función del punto de acceso dentro del modo AP?",
+        "respuesta": "b) Sirve de núcleo para la instalación del cableado",
+        "incorrecta1": "a) Se utiliza como un receptor y actúa como un cable de red ",
+        "incorrecta2": "c) Se usa para extender la señal",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "¿Cuáles son los tipos de conmutadores? ",
+        "respuesta": "c) Conmutador de grupo de trabajo y de red",
+        "incorrecta1": "a) Conmutador de router",
+        "incorrecta2": "b) Conmutador de cortar – continuar",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "En la interconexión de redes el internet es una herramienta:",
+        "respuesta": "b) Compleja, intrincada e interdependiente",
+        "incorrecta1": "a) De interconexión de área extensa",
+        "incorrecta2": "c) De interconexión de área loca.",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "¿Indica qué es la longitud de Prefijos IP?",
+        "respuesta": "b) La cantidad de bits en la dirección que conforma la porción de red.",
+        "incorrecta1": "a) Parte de red numérica de una dirección IP",
+        "incorrecta2": "c) Control de acceso a medios",
+        "incorrecta3": "d) Dispositivo de red"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "¿Cuáles son los elementos principales de un sistema de cableado estrucado?",
+        "respuesta": "c) Cableado Horizontal y Vertical ",
+        "incorrecta1": "a) Distorsion",
+        "incorrecta2": "b) Hardware y Software",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Seleccione lo correcto la norma EIA/TIa 568 A?",
+        "respuesta": "a) Es un estándar de cableado en el cual se interconectan diferentes dispositivos para formar una red, orden en par trenzado.",
+        "incorrecta1": "b) son cables coaxiales.",
+        "incorrecta2": "c) ninguna de las anteriores.",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Cuál es la Distancia que alcanza la fibra óptica monomodo 62?5/125 micras?",
+        "respuesta": "c) 3000 mts",
+        "incorrecta1": "a) 300 mts",
+        "incorrecta2": "b) menos de 300 mts",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Si en un cableado horizontal no alcanza el cable para llegar su destino que se hace?",
+        "respuesta": "b) Se remplaza el cable por otro de la longitud correcta.",
+        "incorrecta1": "a) Se coloca un repetidor.",
+        "incorrecta2": "c) Se conecta un switch y se coloca otro cable",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "A la Hora de establecer las rutas del cableado horizontal es importante evitar.",
+        "respuesta": "b) cables de corriente alterna.",
+        "incorrecta1": "a) motor con fuente de poder menor a 0.5 wats.",
+        "incorrecta2": "c) Curvas de menos de 5 cm de radio",
+        "incorrecta3": "d) Perdida de paquetes"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Todos los switches multicapa Catalyst admiten los siguientes tipos de interfaces de capa 3.",
+        "respuesta": "a) Puerto enrutado e Interfaz virtual del switch (SVI).",
+        "incorrecta1": "b) switches de alto rendimiento, switches Cisco Catalyst, puerto enrutado.",
+        "incorrecta2": "c) Puerto enrutado, Interfaz virtual del switching.",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "La sentencia RETURN:",
+        "respuesta": "d) Todas las afirmaciones son correctas",
+        "incorrecta1": "a) Es una instrucción de control de flujo.",
+        "incorrecta2": "b) Devuelve el control de ejecución a la función desde la que se la invocó",
+        "incorrecta3": "c) Opcionalmente puede devolver un valor"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Las instrucciones escritas en un lenguaje natural al ser humano, generalmente en el idioma inglés, como, por ejemplo: if, for, while, entre otras. Corresponden al :",
+        "respuesta": "c) Lenguaje de alto nivel",
+        "incorrecta1": "a) Lenguaje de bajo nivel",
+        "incorrecta2": "b) Lenguaje máquina",
+        "incorrecta3": "d) Lenguaje intermedio "
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Un depurador :",
+        "respuesta": "d) Todas las afirmaciones son correctas",
+        "incorrecta1": "a) Permite detectar y diagnosticar fallos en programas informáticos. ",
+        "incorrecta2": "b) Analizan el código fuente del programa y su interacción con el sistema operativo que lo ejecuta.",
+        "incorrecta3": "c) Analizan el código del programa paso a paso mediante el uso de los breakpoints o puntos de interrupción"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Un token:",
+        "respuesta": "b) Es una cadena de caracteres que tiene un significado coherente en cierto lenguaje de programación",
+        "incorrecta1": "a) Es un segmento código fuente del programa, que el compilador divide en elementos que los componen.",
+        "incorrecta2": "c) No es una constante, ni un identificador, ni un operador, ni un separador ni las palabras reservadas.",
+        "incorrecta3": "d) Es un componente semántico"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Los mecanismos utilizados para transformar los datos del mismo tipo en otros datos nuevos, mediante la realización de operaciones, se denominan:",
+        "respuesta": "c) Operadores",
+        "incorrecta1": "a) Variables",
+        "incorrecta2": "b) Tipos de datos",
+        "incorrecta3": "d) Sentencias de control de flujo."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Las estructuras de control de flujo:",
+        "respuesta": "a) Permiten modificar la sucesión lineal de instrucciones de un programa para que pueden tomar decisiones en función del valor de las variables.",
+        "incorrecta1": "b) Permiten que Los programas que se pueden realizar utilizando solamente variables y operadores son una simple sucesión lineal de instrucciones básicas.",
+        "incorrecta2": "c) Son estructuras que no influyen en la decisión de la que instrucción se ejecutará a continuación.",
+        "incorrecta3": "d) Ninguna de las opciones es correcta."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "El diseño web fijo: ",
+        "respuesta": "a) Utiliza unidades de medidas fijas, generalmente pixeles.",
+        "incorrecta1": "b) Cambia según el tipo de dispositivo.",
+        "incorrecta2": "c) Cumple las normas de un diseño web responsivo.",
+        "incorrecta3": "d) Utiliza unidades de medidas fijas, generalmente pixeles."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "La técnica de programación que se basa en la secuencia, iteración y selección se denomina:",
+        "respuesta": "b) Programación estructurada",
+        "incorrecta1": "a) Programación lineal",
+        "incorrecta2": "c) Programación orientada a objetos",
+        "incorrecta3": "d) Programación en capas"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": " En programación orientada a objetos, en el caso” impresora usa papel”, que tipo de relación existe entre los objetos impresora y papel: ",
+        "respuesta": "d) Dependencia",
+        "incorrecta1": "a) Asociación",
+        "incorrecta2": "b) Herencia",
+        "incorrecta3": "c) Composición"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "A la capacidad que tienen los objetos de comportarse de múltiples formas sin olvidar su esencia, se denomina:",
+        "respuesta": "c) Polimorfismo",
+        "incorrecta1": "a) Abstracción",
+        "incorrecta2": "b) Encapsulamiento",
+        "incorrecta3": "d) Herencia"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "¿Con qué propiedad se define el espacio entre el borde de un elemento HTML y los elementos que lo rodean?",
+        "respuesta": "b) margin",
+        "incorrecta1": "a) border",
+        "incorrecta2": "c) padding",
+        "incorrecta3": "d) Ninguna de las opciones es correcta"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "La característica común que comparten todas las aplicaciones web, es:",
+        "respuesta": "b) Centralizar el software para facilitar las tareas de mantenimiento y actualización de grandes sistemas. ",
+        "incorrecta1": "a) Utilizar el lenguaje de programación HTML, tanto para la creación de sitios estáticos como dinámicos. ",
+        "incorrecta2": "c) Utilizar las hojas de estilo CSS, para definir la estructura y contenido del sitio.",
+        "incorrecta3": "d) Ninguna de las opciones es correcta"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Las etiquetas semánticas en HTML:",
+        "respuesta": "b) Definen la estructura del documento y permiten que las páginas web sean mejor indexadas por los buscadores.",
+        "incorrecta1": "a) Definen el aspecto, la apariencia e incluso la posición dentro de la web",
+        "incorrecta2": "c) Empiezan en una nueva línea y ocupan todo el espacio disponible hasta el final de la línea.",
+        "incorrecta3": "d) Sólo ocupan el espacio necesario para mostrar sus contenidos."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "El tipo de dato:",
+        "respuesta": "d) Todas las anteriores respuestas son correctas.",
+        "incorrecta1": "a) Determina la naturaleza del conjunto de valores que un dato puede tomar una variable. ",
+        "incorrecta2": "b) Pueden ser numéricos, cadena de caracteres.",
+        "incorrecta3": "c) Pueden ser valores lógicos."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "El código se define como:",
+        "respuesta": "a) Un conjunto de reglas e instrucciones escritas en un lenguaje de programación específico que permite la comunicación con las máquinas.",
+        "incorrecta1": "b) Un conjunto de navegadores escritos en un lenguaje de programación específico que es útil para comunicarse con las máquinas.",
+        "incorrecta2": "c) Un conjunto de textos, imágenes, vídeos y espacios que se pueden mostrar en páginas web.",
+        "incorrecta3": "d) Un conjunto de páginas web que contienen textos, imágenes, vídeos y espacios que son útiles para comunicarse con las máquinas"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "En programación orientada a objetos para que sirven los getters (get) y setters (set)",
+        "respuesta": "b) Sirven para mostrar (get) y modificar (set) el valor de las variables privadas",
+        "incorrecta1": "a) Determinan la visibilidad de la variable o atributo dentro de la estructura del programa",
+        "incorrecta2": "c) Son métodos que determinan el nivel de encapsulamiento de una variable o atributo",
+        "incorrecta3": "d) Son procedimientos utilizados para reusar código"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "La opción más recomendable para declarar los estilos en CSS es:",
+        "respuesta": "a) Enlazarlo a otro archivo de texto con extensión css.",
+        "incorrecta1": "b) Realizarlo en la cabecera de la página de manera interna",
+        "incorrecta2": "c) Realizarlo en la etiqueta especifica de HTML",
+        "incorrecta3": "d) Todas las opciones son correctas"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Un servidor Web es:",
+        "respuesta": "b) El encargado de procesar un programa del lado del servidor, permitiendo el intercambio de información entre servidor y el cliente",
+        "incorrecta1": "a) Aquel que proporciona interoperabilidad manejando bases de datos flexibles y de alto rendimiento. Un programa codificado en un lenguaje soportado por un navegador que permite acceder al servidor en cualquier momento sin requerir una instalación.",
+        "incorrecta2": "c) Ninguna de las opciones es correcta",
+        "incorrecta3": ""
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Seleccione una ventaja del uso de frameworks en el desarrollo de aplicaciones Web ",
+        "respuesta": "b) Agilita el desarrollo de los proyectos, mediante diseño y programación estándar",
+        "incorrecta1": "a) Añade código incensario a las aplicaciones",
+        "incorrecta2": "c) Las versiones pueden ser inestables",
+        "incorrecta3": "d) El tiempo de aprendizaje puede ser extensos si no tenemos nociones del lenguaje de programación a utilizar."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Cuáles de las siguientes tecnologías son SGBD no relacionales:",
+        "respuesta": " d) COUCHBASE Y MONGO DB",
+        "incorrecta1": "a) SQL SERVER Y ORACLE",
+        "incorrecta2": "b) MONGODB Y MARIADB",
+        "incorrecta3": "c) POSTGRESQL Y CASSANDRA"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "¿Qué define la estructura de las expresiones de un lenguaje de programación?",
+        "respuesta": "c) Sus reglas semánticas ",
+        "incorrecta1": "a) Sus palabras reservadas ",
+        "incorrecta2": "b) Sus reglas sintácticas ",
+        "incorrecta3": "d) Ninguna de las afirmaciones es correcta"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "La estructura de datos que añade un elemento al final de la estructura y elimina el primer elemento de la estructura, se denomina: {",
+        "respuesta": "d) Cola",
+        "incorrecta1": "a) Lista",
+        "incorrecta2": "b) Matriz",
+        "incorrecta3": "c) Pila"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Cuando se ejecuta el método constructor de una clase:",
+        "respuesta": "b) Se asigna un espacio de memoria al objeto instanciado y se inicializan los atributos del objeto ",
+        "incorrecta1": "a) Se crea un alias y se inicializan los atributos del objeto ",
+        "incorrecta2": "c) Se asigna un espacio de memoria al objeto instanciado, pero no se inicializan los atributos del objeto ",
+        "incorrecta3": "d) Ninguna de las afirmaciones es correcta"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Una variable:",
+        "respuesta": "d) Todas las opciones son correctas",
+        "incorrecta1": "a) Es un espacio de almacenamiento en la memoria RAM, que sirve para que la computadora guarda temporalmente los datos con los que trabaja un algoritmo",
+        "incorrecta2": "b) Pueden cambiar su valor mientras se ejecuta el algoritmo",
+        "incorrecta3": "c) Utilizan un nombre o identificador y un tipo de dato."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "La sobrecarga de métodos en programación orientada a objetos, se refiere:",
+        "respuesta": "b) Múltiples métodos dentro de una clase los cuales contienen el mismo nombre, diferentes parámetros y diferentes funcionalidades.",
+        "incorrecta1": "a) Múltiples métodos dentro de una clase los cuales contienen el mismo nombre, diferentes parámetros, pero la misma funcionalidad.",
+        "incorrecta2": "c) Múltiples métodos dentro de una clase los cuales contienen el mismo nombre, mismos parámetros y la misma funcionalidad.",
+        "incorrecta3": "d) Ninguna de las opciones es correcta."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Al conjunto de protocolos y estándares que sirven para intercambiar datos entre aplicaciones, se conoce como:",
+        "respuesta": "c) Servicio web",
+        "incorrecta1": "a) Servidor web",
+        "incorrecta2": "b) Servidor de aplicaciones",
+        "incorrecta3": "d) Aplicación web"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Un ataque CSRF es:",
+        "respuesta": "a) La inyección de <scripts> maliciosos por parte del usuario, que se ejecutaran al momento de cargar este contenido en la página web.",
+        "incorrecta1": "b) Consisten en forzar a un usuario a ejecutar peticiones no deseadas a una web en la que están autentificados sin que este se dé cuenta.",
+        "incorrecta2": "c) La ejecución de códigos que permiten acceder al sitio e implantar un malware, que facilitará la ejecución de código de manera remota",
+        "incorrecta3": "d) Ninguna de las opciones es correcta."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "La estructura básica de una página HTML es:",
+        "respuesta": "d) Ninguna de las opciones anteriores es correcta.",
+        "incorrecta1": "a) HTML, HEADER, BODY, /BODY, /HTML.",
+        "incorrecta2": "b) HTML, HEADER, BODY, /HEADER, /BODY.",
+        "incorrecta3": "c) HTML, HEADER, /HEADER. BODY, /BODY, /HTML."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Una excepción es la indicación de que se produjo un error en el programa y se producen cuando:",
+        "respuesta": "=Se ejecuta el programa.",
+        "incorrecta1": "~Se diseña el programa.",
+        "incorrecta2": "~Se compila el programa.",
+        "incorrecta3": "~Ninguna de las opciones anteriores es correcta"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Al conjunto de instrucciones que se encuentra dentro de una clase, que pueden o no devolver un valor y pueden recibir parámetros de entrada, parámetros de salida y/o parámetros de referencia.",
+        "respuesta": "b) Método",
+        "incorrecta1": "a) Atributo",
+        "incorrecta2": "c) Objeto",
+        "incorrecta3": "d) Interfaz"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "En el desarrollo de aplicaciones web, la programación en el cliente:",
+        "respuesta": "c) Consiste en el desarrollo de la interfaz de usuario de la aplicación web, utilizando el estándar de desarrollo HTML, CSS y JAVASCRIPTS",
+        "incorrecta1": "a) Consiste en crear esbozos de la web final",
+        "incorrecta2": "b) Consiste en crear la lógica de la aplicación web",
+        "incorrecta3": "d) Ninguna de las opciones es correcta"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Boostrap:",
+        "respuesta": "c) Es un framework de CSS Open Source",
+        "incorrecta1": "a) Es una herramienta de tecnología de frontend que no favorece el diseño responsive ",
+        "incorrecta2": "b) Dificulta el desarrollo de aplicaciones web ",
+        "incorrecta3": "d) Ninguna de las opciones es correcta"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "En el desarrollo de aplicaciones web, la programación en el servidor:",
+        "respuesta": "c) Consiste en desarrollar la lógica de la aplicación, para lo cual se utilizan lenguajes de programación como PHP, ASP NET, Python, Perl, etc.",
+        "incorrecta1": "a) Consiste en el desarrollo de la interfaz de usuario de la aplicación web",
+        "incorrecta2": "b) Consiste en crear esbozos de la web final",
+        "incorrecta3": "d) Ninguna de las opciones es correcta"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Seleccione lo correcto:",
+        "respuesta": " c) HTML, CSS no son lenguajes de programación, son lenguajes que se utilizan para la presentación de la aplicación del lado del cliente.",
+        "incorrecta1": "a) HTML es un lenguaje de programación, pese a que no posee funciones aritméticas, estructuras de control o las variables.",
+        "incorrecta2": "b) HTML, CSS no son lenguajes de programación, son lenguajes que se utilizan para desarrollar la lógica de la aplicación del lado del servidor",
+        "incorrecta3": "d) Ninguna de las opciones es correcta"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "La programación se puede definir como:",
+        "respuesta": "a) El proceso de diseñar, codificar, depurar y mantener el código fuente de programas de ordenador ",
+        "incorrecta1": "b) La ejecución de programas de ordenador desde la línea de comandos ",
+        "incorrecta2": "c) La instalación de programas en sistemas operativos desde la línea de comandos ",
+        "incorrecta3": "d) Ninguna de las anteriores respuestas es correcta."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Una arquitectura multicapa es: ",
+        "respuesta": "b) Un estilo de programación donde el objetivo principal es separar los diferentes aspectos del desarrollo, tales como la lógica de negocio, mecanismos de almacenamiento de datos, aspectos de presentación, etc.",
+        "incorrecta1": "a) Es un modelo  que se utiliza para la representación de diagramas de uso.",
+        "incorrecta2": "c) Es un modelo de programación donde no se establecen responsabilidades de manera clara.",
+        "incorrecta3": "d) Ninguna de las anteriores."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "La regla 'div + span \\{ color: red \\}' significa que ...",
+        "respuesta": "b) Se aplicará a las etiquetas <span> que sean un 'hermano contiguo' de div.",
+        "incorrecta1": "a) Se aplicará a las etiquetas <span> que sean un 'hermano' de div.",
+        "incorrecta2": "c) Se aplicará a las etiquetas <span> que sean un 'descendiente' de div.",
+        "incorrecta3": "d) Ninguna de las opciones es correcta"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Las páginas web que utilizan bases de datos y su contenido cambian según la interacción con el usuario, se denominan:",
+        "respuesta": "d) Dinámicas",
+        "incorrecta1": "a)Dinámicas",
+        "incorrecta2": "b) Gestor de contenido",
+        "incorrecta3": "c) E-Comerce"
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Seleccione lo correcto. Los algoritmos:",
+        "respuesta": "c) Resuelven paso a paso un problema utilizando una entrada de datos, que es procesada para generar una salida",
+        "incorrecta1": "a) Dependen del lenguaje de programación específico",
+        "incorrecta2": "b) Son la interfaz con la que el usuario debe interactuar para ejecutar un proceso",
+        "incorrecta3": "d) Grupo de ordenes discontinuas, que presentan la solución a un problema."
+    },
+    {
+        "categoria": "Practico Tecnologia de la Informacion",
+        "pregunta": "Un lenguaje de programación:",
+        "respuesta": "d) Todas las afirmaciones son correctas",
+        "incorrecta1": "a) Es un sistema estructurado de comunicación, para describir el conjunto de acciones consecutivas que un computador debe ejecutar.",
+        "incorrecta2": "b) Es un conjunto de símbolos y reglas sintácticas y semánticas que definen su estructura y el significado de sus elementos y expresiones",
+        "incorrecta3": "c) Comprende un lenguaje formal, diseñado para organizar algoritmos y procesos lógicos que serán ejecutados por un computador."
+    }
+]
