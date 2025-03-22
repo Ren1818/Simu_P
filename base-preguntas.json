@@ -514,9 +514,9 @@
     {
         "categoria": "Practico Tecnologia de la Informacion",
         "pregunta": "La regla 'div + span \\{ color: red \\}' significa que ...",
-        "respuesta": "b) Se aplicará a las etiquetas <span> que sean un 'hermano contiguo' de div.",
-        "incorrecta1": "a) Se aplicará a las etiquetas <span> que sean un 'hermano' de div.",
-        "incorrecta2": "c) Se aplicará a las etiquetas <span> que sean un 'descendiente' de div.",
+        "respuesta": "b) Se aplicará a las etiquetas span que sean un 'hermano contiguo' de div.",
+        "incorrecta1": "a) Se aplicará a las etiquetas span que sean un 'hermano' de div.",
+        "incorrecta2": "c) Se aplicará a las etiquetas span que sean un 'descendiente' de div.",
         "incorrecta3": "d) Ninguna de las opciones es correcta"
     },
     {
