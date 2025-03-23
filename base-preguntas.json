@@ -434,7 +434,7 @@
     {
         "categoria": "Practico Tecnologia de la Informacion",
         "pregunta": "Un ataque CSRF es:",
-        "respuesta": "a) La inyección de <scripts> maliciosos por parte del usuario, que se ejecutaran al momento de cargar este contenido en la página web.",
+        "respuesta": "a) La inyección de scripts maliciosos por parte del usuario, que se ejecutaran al momento de cargar este contenido en la página web.",
         "incorrecta1": "b) Consisten en forzar a un usuario a ejecutar peticiones no deseadas a una web en la que están autentificados sin que este se dé cuenta.",
         "incorrecta2": "c) La ejecución de códigos que permiten acceder al sitio e implantar un malware, que facilitará la ejecución de código de manera remota",
         "incorrecta3": "d) Ninguna de las opciones es correcta."
